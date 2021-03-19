@@ -1,0 +1,89 @@
+
+::selection {
+    background:red;
+    color: black;
+}
+ 
+
+
+.all{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    width: 100vw;
+    height: 100vh;
+}
+
+.hidden{
+    display: none;
+}
+.form{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:white;
+    padding: 30px;
+    border: 3px solid black;
+
+
+}
+.h1{
+    color: #fff;
+    font-family:OCR A Std, monospace;
+    font-weight: bolder;
+    padding: 30px;
+    text-shadow: 2px 4px black;
+    text-align: center;
+}
+.nav{
+    opacity:1;
+    color: white;
+    height:150px;
+    font-weight: bolder;
+    padding:10px;
+}
+.link{
+    color: white;
+    font-size: 15px;
+}
+.link:hover{
+    color: red;
+    font-size: 20px;
+
+}
+#input{
+    border: 2px solid black;
+    font-weight: bold;
+}
+.icon{
+    margin-top:38px;
+}
+.label{
+    font-weight: bold;
+    font-family:OCR A Std, monospace;
+
+}
+
+#bt{
+    background-color: white;
+    color:red;
+    font-weight: bold;
+    border: 2px solid red;
+    margin-top: 30px;
+}
+#bt:hover{
+    background-color:red;
+    color:white;
+    font-weight: bold;
+    border: 2px solid white;
+}
+
+.modalHeader{
+    background-color: black;
+    color: white;
+}
+
+.modalHeader closeButton{
+    background:red
+}
+
+.modalFooter{
+    border-top: 2px solid black;
+}
