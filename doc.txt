@@ -1,0 +1,5 @@
+Projeto desenvolvido com as stacks Html, CSS, Bootstrap e React JS utilizando Hooks.
+Project developed with Html, CSS, Bootstrap and React JS stacks using Hooks.
+
+Por enquanto não esta aceitando valores decimais, so inteiros.
+For the time being it is not accepting decimal values, they are integers.
