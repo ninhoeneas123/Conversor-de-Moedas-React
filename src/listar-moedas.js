@@ -38,7 +38,7 @@ function ListarMoedas (){
 	];
 
  function Compare(moeda1, moeda2){
-    if(moeda1 < moeda2){
+    if(moeda1.descricao < moeda2.descricao){
         return -1;
     }else if(moeda1 > moeda2){
         return -2;
